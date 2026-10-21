@@ -1,0 +1,4 @@
+Open Shader Class
+Copyright 2026 Jason Burton
+
+Licensed under the Apache License, Version 2.0.
